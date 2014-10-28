@@ -3,6 +3,8 @@ Tarmak
 
 Tarmak keyboard layouts learning Colmac in easy incremental steps. This uses Karl Nordstrom's 2014: Tarmak(E-T-R-O-I) sequence. 
 
+![Tarmak Layout Progression](https://github.com/professor/tarmak/raw/master/tarmak_e_t_r_o_i.png)
+
 ## Directions on installing on a Mac
 1. git clone the repo
 2. cp tarmak/mac/10.9/* /Library/Keyboard\ Layouts/
