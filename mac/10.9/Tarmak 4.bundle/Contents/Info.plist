@@ -5,10 +5,10 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.tarmak4</string>
 	<key>CFBundleName</key>
-	<string>Tarmak 4</string>
+	<string>Tarmak4</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
-	<key>KLInfo_Tarmak 4</key>
+	<key>KLInfo_Tarmak4</key>
 	<dict>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.tarmak4.tarmak4</string>
