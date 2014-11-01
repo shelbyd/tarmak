@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.4 on 2013-04-06 at 13:21 (GMT+08:00)-->
-<!--Last edited by Ukelele version 2.2.4 on 2013-04-06 at 13:35 (GMT+08:00)-->
+<!--Last edited by Ukelele version 2.2.8 on 2014-10-30 at 05:56 (PDT)-->
 <keyboard group="0" id="5591" name="Tarmak1" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
@@ -306,9 +306,9 @@
             <key code="35" output="P"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="L"/>
-            <key code="38" output="J"/>
+            <key code="38" output="N"/>
             <key code="39" output="&#x0027;"/>
-            <key code="40" output="K"/>
+            <key code="40" output="E"/>
             <key code="41" output=";"/>
             <key code="42" output="\"/>
             <key code="43" output=","/>
