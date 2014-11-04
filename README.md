@@ -9,7 +9,7 @@ Tarmak keyboard layouts learning Colemak in easy incremental steps. This uses Ka
 ## Directions on installing on a Mac
 1. git clone the repo
 2. run install.sh from the mac/10.9 directory
-4. Log off the computer and restart it
+~~4. Log off the computer and restart it~~ (this is not necessary for 10.9) 
 3. If you have a Mac OS version earlier than 10.9.1 Mavericks
    1. Open **System Preferences** > **International**. Click the **Input Menu** tab
    2. Scroll down until you find the name of the keyboard layout you just installed. Make sure the checkbox is selected.
