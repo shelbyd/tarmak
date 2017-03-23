@@ -1,10 +1,13 @@
-Tarmak
-======
+Tarmak (Incremental Colemak)
+============================
 
-Tarmak keyboard layouts learning Colemak in easy incremental steps. This uses Karl Nordstrom's 2014: Tarmak(E-T-R-O-I) sequence. 
-
-
-![Tarmak Layout Progression](https://github.com/shelbyd/tarmak/raw/master/tarmak_e_t_r_o_i.png)
+Tarmak keyboard layouts for learning Colemak in 2-5 easy incremental steps, using the current sequence:
+[**Tarmak(ETROI)** - by Øystein Bech "DreymaR" Gadmar, Karl Nordstrom and others (2008-2014)][DreyTarmak]
+***
+[DreyTarmak]: https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/ "Learn Colemak in steps with the Tarmak layouts! Colemak forums"
+  
+![Tarmak Layout Progression](https://github.com/shelbyd/tarmak/raw/master/tarmak_etroi_dreymar.png)
+  
 
 ## Directions on installing on a Mac
 1. git clone the repo
